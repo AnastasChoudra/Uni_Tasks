@@ -1,0 +1,1 @@
+This code generates the stimuli for a standard oddball paradigm for psychology experiments. The images are rotated clockwise and the process is automated. Just the name of the image file is required as input and the directory of the stimuli.
